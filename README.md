@@ -2,6 +2,7 @@
 
 My web portfolio where the wireframe was based on Denis Ivanovs portfolio with lots of changes and done in Nuxt.js ,Vuetify and Vue.js <br> 
 I wanted to showcase my projects instead of just sending github links which i know would be bothersome for people. <br>
+At the bottom right are controls for page navigation and email (upon clicking it the user must have a default mail client installed) <br>
 At the same time i learned how to use localStorage and change css root with Vue.js.
 
 
