@@ -4,7 +4,7 @@
       <v-container>
         <v-row class="hWrap justify-center align-center text-center" id="top">
           <v-col>
-            <h1>Hi, i'm Nemanja Galbinovic</h1>
+            <h1>Hi, I'm Nemanja Galbinovic</h1>
           </v-col>
         </v-row>
 
