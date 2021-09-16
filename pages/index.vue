@@ -372,7 +372,7 @@ export default {
         id: 12,
         title: "Portfolio",
         src: require("../assets/projects/portfolio.png"),
-        github: "https://github.com/littlenines/JokeAPI.git",
+        github: "https://github.com/littlenines/WebPortfolio.git",
         text: "I wanted to showcase some of my projects easier instead of just sending GitHub links , would be bothersome for people viewing them.",
         chip: ["Nuxt.js", "Vuetify", "Vue.js","Heroku"],
         h: "550px",
