@@ -6160,6 +6160,11 @@ process@^0.11.10:
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
 
+procfile@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/procfile/-/procfile-0.1.1.tgz#7393f5ac171b13213143b355373cc690b058b22f"
+  integrity sha1-c5P1rBcbEyExQ7NVNzzGkLBYsi8=
+
 promise-inflight@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/promise-inflight/-/promise-inflight-1.0.1.tgz#98472870bf228132fcbdd868129bad12c3c029e3"
