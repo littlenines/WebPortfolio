@@ -2,11 +2,15 @@
   "name": "portfolio",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "yarn": "1.x"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "heroku-postbuild": "ng build --prod"
   },
   "dependencies": {
     "core-js": "^3.15.1",
