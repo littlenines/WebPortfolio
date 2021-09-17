@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "heroku-postbuild": "npm run build"
+    "generate": "nuxt generate",
+    "heroku-postbuild": "yarn build"
   },
   "dependencies": {
     "core-js": "^3.15.1",
