@@ -423,14 +423,7 @@ h6 {
 }
 
 .v-speed-dial {
-  position: fixed;
-}
-
-.postW {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 370px);
-  justify-content: center;
-
+  position: fixed !important;
 }
 
 @media screen and (max-width: 1200px) {

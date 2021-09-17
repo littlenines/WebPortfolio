@@ -44,7 +44,7 @@
             </p>
           </v-col>
 
-          <v-col class="rightCol ml-3">
+          <v-col class="rightCol">
             <div id="preview">
               <span id="corner1" class="mdi mdi-pac-man corner"></span>
               <span id="corner2" class="mdi mdi-ghost dot-circle corner"></span>
